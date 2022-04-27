@@ -8,6 +8,7 @@
       android:layout_marginTop="@dimen/margin_large"
       android:dropDownWidth="@dimen/spinner_height"
       android:popupBackground="@color/pf_white"
+      android:background="@null"
       />
 
   <EditText
